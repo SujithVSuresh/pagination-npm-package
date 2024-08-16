@@ -1,0 +1,14 @@
+{
+  "name": "paginationx",
+  "version": "1.0.0",
+  "description": "pagenationx helps developers to implement pagenation in a nodejs project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "pagination"
+  ],
+  "author": "sujith vs",
+  "license": "ISC"
+}
