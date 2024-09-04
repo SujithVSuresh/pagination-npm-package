@@ -1,5 +1,5 @@
 
-const pagination = async (query=null, model, limitCount) => {
+const pagination = async (model, limitCount, query=null) => {
     let page = query.page || 1
     let limit = limitCount || 10
     let skip = (page - 1) * limit
